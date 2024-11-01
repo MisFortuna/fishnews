@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Game Release",
+    "description": "Immerse yourself in the exciting gameplay of our new game, which is already available.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/ReleaseNews.png?alt=media&token=69a52647-f7dd-4e50-a752-2f136cc441b0"
+  },
+  {
+    "id": "2",
+    "title": "New - Halloween Hats",
+    "description": "Celebrate with new species of fish",
+    "image": "https://firebasestorage.googleapis.com/v0/b/fhotkpdwf.appspot.com/o/hallowinNews.png?alt=media&token=018d63d8-d13b-45a4-9004-6466069ee315"
+  }
+]
+
+
+
+
